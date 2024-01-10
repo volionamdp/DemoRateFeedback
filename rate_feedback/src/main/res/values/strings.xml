@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="the_best_rating_star">The best rating star</string>
+    <string name="how_do_you_feel_about_the_app_your_feedback_is_important_to_us">How do you feel about the app? Your feedback is important to us</string>
+    <string name="oh_no_please_leave_us_some_feedback">Oh, no! Please leave us some feedback!</string>
+    <string name="we_like_you_too_thanks_for_your_feedback">We like you too! Thanks for your feedback</string>
+    <string name="rate">Rate</string>
+    <string name="less_call_screen_than_i_expected">Less call screen than I expected</string>
+    <string name="i_want_different_style_of_call_screen">I want different style of call screen</string>
+    <string name="i_could_not_change_my_call_screen">I could not change my call screen</string>
+    <string name="too_many_ads">Too many ads</string>
+    <string name="the_app_is_hard_to_use">The app is hard to use</string>
+    <string name="i_could_not_turn_on_the_speaker">I could not turn on the speaker</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="your_feedback_is_helpful">Your Feedback is Helpful</string>
+    <string name="other">Other</string>
+    <string name="type_your_feedback_here">Type your feedback here</string>
+</resources>
